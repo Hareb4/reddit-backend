@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MrKing\\Desktop\\ATLG\\Development\\reddit-clone\\Backend\\Backend.csproj": {}
+    "C:\\Users\\in7rt\\Downloads\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MrKing\\Desktop\\ATLG\\Development\\reddit-clone\\Backend\\Backend.csproj": {
+    "C:\\Users\\in7rt\\Downloads\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MrKing\\Desktop\\ATLG\\Development\\reddit-clone\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\in7rt\\Downloads\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "c:\\Users\\MrKing\\Desktop\\ATLG\\Development\\reddit-clone\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\MrKing\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MrKing\\Desktop\\ATLG\\Development\\reddit-clone\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\in7rt\\Downloads\\Backend\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\in7rt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\in7rt\\Downloads\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MrKing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\in7rt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,7 +48,7 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -61,6 +61,12 @@
               "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SQLServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
             },
@@ -92,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
